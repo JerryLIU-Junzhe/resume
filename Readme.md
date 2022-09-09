@@ -18,4 +18,9 @@
 
 [Qingdao No.39 Middle School](http://www.qd39.qdedu.net/)
 
-# resume
+## Research Interests
+
+1. Air-Sea Interaction
+
+2. Ocean Boundary Layer Processes
+
